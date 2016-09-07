@@ -12,3 +12,8 @@
 ## Clase 3 - 30/08/2016
 - Introducción a EF.
 - Ejercicio Práctico.
+
+## Clase 4 - 06/09/2016
+- Introducción a EF.
+- Ejercicio Práctico. 
+- Relationship -> https://msdn.microsoft.com/en-us/data/jj591620.aspx
