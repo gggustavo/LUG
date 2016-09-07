@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Controladora
+namespace Modelo
 {
-    public class Class1
+    public class CuentaCorriente : Cuenta
     {
+        
     }
 }

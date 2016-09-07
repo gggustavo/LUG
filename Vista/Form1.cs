@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Controladora;
 
 namespace Vista
 {
@@ -15,6 +16,14 @@ namespace Vista
         public Form1()
         {
             InitializeComponent();
+        }
+
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+
+            TestEntity.Initial();
+
         }
     }
 }
