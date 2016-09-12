@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
+﻿using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Modelo
 {
@@ -25,7 +20,14 @@ namespace Modelo
             
             modelBuilder.Entity<Titular>().HasKey(_ => _.IdTitular);
 
-            modelBuilder.Entity<Cuenta>().HasRequired(_ => _.Titular);
+
+            
+            modelBuilder.Entity<Cuenta>().HasMany(_ => _.Titular)
+                                         .WithMany(_ => _.Cuentas)
+                                         .Map(_ => _.MapLeftKey("IdCuenta")
+                                                    .MapRightKey("IdTitular")
+                                                    .ToTable("CuentaTitular"));
+            
 
         }
 
