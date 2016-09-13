@@ -17,3 +17,7 @@
 - Introducción a EF.
 - Ejercicio Práctico. 
 - Relationship -> https://msdn.microsoft.com/en-us/data/jj591620.aspx
+
+## Clase 5 - 13/09/2016
+- Introducción a EF.
+- Ejercicio Práctico. 
