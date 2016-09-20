@@ -21,3 +21,7 @@
 ## Clase 5 - 13/09/2016
 - Introducción a EF.
 - Ejercicio Práctico. 
+
+## Clase 6 - 20/09/2016
+- Introducción a EF.
+- Ejercicio Práctico. 
