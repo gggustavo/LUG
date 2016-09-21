@@ -23,5 +23,5 @@
 - Ejercicio Práctico. 
 
 ## Clase 6 - 20/09/2016
-- Introducción a EF.
+- Inheritance: http://www.entityframeworktutorial.net/code-first/inheritance-strategy-in-code-first.aspx
 - Ejercicio Práctico. 
