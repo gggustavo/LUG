@@ -24,4 +24,8 @@
 
 ## Clase 6 - 20/09/2016
 - Inheritance: http://www.entityframeworktutorial.net/code-first/inheritance-strategy-in-code-first.aspx
+- Ejercicio Práctico.
+
+## Clase 7 - 27/09/2016
 - Ejercicio Práctico. 
+
