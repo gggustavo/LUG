@@ -29,3 +29,6 @@
 ## Clase 7 - 27/09/2016
 - Ejercicio Práctico. 
 
+## Clase 8 - 04/10/2016
+- Parcial 1. 
+
