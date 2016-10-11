@@ -32,3 +32,6 @@
 ## Clase 8 - 04/10/2016
 - Parcial 1. 
 
+## Clase 9 - 04/10/2016
+- Practica Parcial 1. 
+
