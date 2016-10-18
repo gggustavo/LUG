@@ -35,3 +35,8 @@
 ## Clase 9 - 11/10/2016
 - Practica Parcial 1. 
 
+## Clase 10 - 18/10/2016
+- Practica - Many To Many
+- Entity Framework Power Tools  https://visualstudiogallery.msdn.microsoft.com/72a60b14-1581-4b9b-89f2-846072eff19d
+
+
