@@ -45,3 +45,7 @@
 - Store Procedure With EntityFramework
 - Practica
 
+## Clase 12 - 01/11/2016
+- Practica POO (Account)
+- Practica
+
