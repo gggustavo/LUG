@@ -52,4 +52,6 @@
 ## Clase 13 - 08/11/2016
 - Practica Products
 
+## Clase 14 - 15/11/2016
+- Practica Products
 
