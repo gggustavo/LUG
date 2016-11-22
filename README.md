@@ -55,3 +55,5 @@
 ## Clase 14 - 15/11/2016
 - Practica Products
 
+## Clase 15 - 22/11/2016
+- Parcial 2
