@@ -57,3 +57,6 @@
 
 ## Clase 15 - 22/11/2016
 - Parcial 2
+
+## Clase 16 - 29/11/2016
+- Recuperatorios
